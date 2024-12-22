@@ -1,1 +1,21 @@
 # pizza_sales_sql
+#PRESENTATION
+
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/1.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/2.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/3.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/4.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/5.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/6.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/7.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/8.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/9.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/10.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/11.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/12.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/13.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/14.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/15.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/16.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/17.jpg?raw=true)
+![Alt text](https://github.com/saurabh7500/pizza_sales_sql/blob/main/18.jpg?raw=true)
